@@ -1,0 +1,10 @@
+Package: com.imkpatil.3dmorepower
+Name: 3DMorePower
+Depends: mobilesubstrate
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: 3D Touch CC Low Power Mode for more options!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
+Icon: file:///Library/Application Support/3DMorePower/icon.png
